@@ -21,7 +21,7 @@ sidebar:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: alandoe
   xing: alandoe
-  github: jekyll
+  github: ccarbajal13
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -47,11 +47,11 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Reading
       link:
 
 
-    - item: Snowboarding
+    - item: Traveling
       link:
 
 
@@ -62,11 +62,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
+    As a public health major on the pre-med track, all topics revolving around health, wellness, mindfulness, etc. are intriguing and inspiring. Being a public health major, I'm specifically interested in better comprehending the adversaries faced by specific communities and demographics, and the ways in which to resolve them. 
     Second paragraph if required.
 education:
   title: Education
