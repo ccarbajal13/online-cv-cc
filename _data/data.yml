@@ -11,10 +11,11 @@ sidebar:
   name: Cindy Carbajal
   tagline: Pre-med Public Health major at NIU
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  assets/images/24-Cindy_Carbajal-0917-WD-38.jpg
 
   # Sidebar links
   email: z2012328@students.niu.edu
-  phone: 815 245 1514
+  phone: 815-245-1514
   timezone: America/Central Time # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
