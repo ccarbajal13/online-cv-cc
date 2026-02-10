@@ -18,11 +18,8 @@ sidebar:
   phone: 815-245-1514
   timezone: America/Central Time # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: 
-  xing: alandoe
   github: ccarbajal13
-  telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
   bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
@@ -98,6 +95,7 @@ experiences:
     company: Geneva Lake Manor, Lake Geneva, WI
     details: |
       Everyday responsibilities and roles include providing compassionate and professional care to the long-term care facility residents.
+      Assitance with activities of daily living, as well as personal care are given, while simultaneously promoting the autonomy and independence of those being assissted. 
       
         - Bullet point
         - Bullet point
