@@ -19,14 +19,14 @@ sidebar:
   timezone: America/Central Time # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
+  linkedin: 
   xing: alandoe
   github: ccarbajal13
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
   bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -97,15 +97,8 @@ experiences:
     time: 2025 - Present
     company: Geneva Lake Manor, Lake Geneva, WI
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
+      Everyday responsibilities and roles include providing compassionate and professional care to the long-term care facility residents.
+      
         - Bullet point
         - Bullet point
   - role: Senior Software Engineer
